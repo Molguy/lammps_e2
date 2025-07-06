@@ -8,7 +8,7 @@ Comandos para la ejecucion en terminal:
 
 para la normal:
 
-    datagen < def.micelle > data.micelle
+    ./datagen < def.micelle > data.micelle
 .
 
     less in.micelle
@@ -24,7 +24,7 @@ para la normal:
 
 para la extendida:
 
-    datagen < def_2.micelle > data_2.micelle
+    ./datagen < def_2.micelle > data_2.micelle
 .
 
     lmp_mpi < in_2.micelle
