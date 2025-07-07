@@ -20,7 +20,7 @@ para la normal:
     lmp_serial < in.micelle
 .
 
-    ovito < dump.micelle
+    ovito dump.micelle
 
 para la extendida:
 
@@ -30,4 +30,4 @@ para la extendida:
     lmp_mpi < in_2.micelle
 .
 
-    ovito < dump_2.micelle 
+    ovito dump_2.micelle 
